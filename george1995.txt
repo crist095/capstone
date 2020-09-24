@@ -1,0 +1,4 @@
+postgres://rgobbbucneadbj:a835c21b6837e04d0ece7238c969c375168b0f8fc051d8712d0c8068bf043bea@ec2-54-86-57-171.compute-1.amazonaws.com:5432/dag5a7sucj0s46
+
+
+https://george1995.herokuapp.com/ | https://git.heroku.com/george1995.git
